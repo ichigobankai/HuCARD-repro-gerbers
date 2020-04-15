@@ -1,8 +1,10 @@
 # HuCARD
 Hucard gerbers ready for fab.
 
-Hucard thickness need to be around ~2.4mm.
-TSOP is on the bottom side.
+Hucard thickness need to be around ~2.4mm
+
+TSOP is on the bottom side
+
 You need to add a 2nd layer (plastic for example) to ensure thickness as PBC tends to be 2mm at maximum.
 
 TSOP can be :

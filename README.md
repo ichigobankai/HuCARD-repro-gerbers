@@ -1,6 +1,8 @@
 # HuCARD
 Hucard gerbers ready for fab.
 
+![screenshot](ichigo_hucard.jpg)
+
 Hucard thickness need to be around ~2.4mm
 
 TSOP is on the bottom side
@@ -15,3 +17,4 @@ TSOP can be :
 TSOP can also be (re)flashed after soldering (/WE flash connected to /WE bus)
 
 ICHIGO
+
